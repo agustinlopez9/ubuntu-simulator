@@ -1,6 +1,6 @@
-## My Portfolio
+## Ubuntu simulator
 
-Personal portfolio project with Ubuntu UI style, this is a work in progress, more features coming in the future!
+Website that simulates Ubuntu UI, this is a work in progress, more features coming in the future!
 
 ![Preview](https://i.ibb.co/ZfJGfN1/Captura-desde-2023-05-08-14-47-32.png)
 
